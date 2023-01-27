@@ -1,6 +1,6 @@
 
 body {
-    background-color: salmon;
+    background: linear-gradient(grey, white);
 }
 footer {
     text-decoration: underline;
@@ -15,9 +15,10 @@ header, h2 {
     
 }
 section {
-    border: dashed;
+    border: groove;
+    border-width: 1em;
     padding: 3pt ;
-    border-color: aquamarine;
+    border-color: gray;
     border-radius: 8%;
     margin: 3pt;
 }
@@ -35,7 +36,12 @@ ul {
     align-content: center;
 }
 li {
-    padding: 1em;
+    border: groove;
+    border-width: 0.5em;
+    padding: 3pt ;
+    border-color: rgb(255, 127, 212);
+    border-radius: 8%;
+    margin: 3pt;
 }
 img {
     border-radius: 33%;
@@ -63,6 +69,7 @@ span {
 
 p {
     line-height: 1.5;
+    text-indent: 1em;
 }
    
 #imaxe {
