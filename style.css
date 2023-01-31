@@ -65,6 +65,8 @@ span {
     border: solid;
     padding: 0pt ;
     border-color: aquamarine;
+    display: block;
+    background-color: aqua;
 }
 
 p {
