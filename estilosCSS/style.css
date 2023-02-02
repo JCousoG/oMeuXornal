@@ -53,19 +53,22 @@ figure {
     justify-content: center;
     align-items: baseline;
 }
+
+h2 {
+    font-size: xx-large;
+}
+h3 {
+    text-align: center;
+}
 h4 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: x-small;
     font-style: italic;
 }
-h2 {
-    font-size: xx-large;
-}
 span {
     border: solid;
     padding: 0pt ;
     border-color: aquamarine;
-    display: block;
     background-color: aqua;
 }
 
