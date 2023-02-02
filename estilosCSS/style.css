@@ -76,6 +76,16 @@ p {
     line-height: 1.5;
     text-indent: 1em;
 }
+#suscripcion {
+    border: groove;
+    border-width: 0.5em;
+    padding: 3pt ;
+    border-color: rgb(255, 127, 212);
+    border-radius: 8%;
+    margin: 3pt; 
+    margin-left: 40%;
+    margin-right: 40%;
+}
    
 #imaxe {
     text-align: center;
